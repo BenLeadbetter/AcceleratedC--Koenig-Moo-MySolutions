@@ -1,0 +1,560 @@
+ARCHIVE OF THE FUTURE: ALAN MOORE’S WATCHMEN AS
+HISTORIOGRAPHIC NOVEL1
+TONY VENEZIA
+The fact is that every writer creates his own precursors.
+His work modifies our conception of the past, as it will
+modify the future.
+Jorge Luis Borges (‗Kafka and His Precursors‘ 236)
+Archives are everywhere in the contemporary graphic
+novel, although almost inevitably not the ordered
+collections of the academic library or a law firm‘s
+records. These are archives in the loosest, messiest
+sense of the word — archives of the forgotten artefacts
+and the ephemera of American popular culture, items
+that were never meant to be collected.
+Jared Gardner (‗Archives, Collectors, and the New
+Media‘ 787)
+Figure 1: Watchmen, Alan Moore and Dave Gibbons, chapter XII: page
+32 (excerpt). © DC Comics.1
+
+An earlier version of this essay was given as a paper at the ‗Work in Progress‘
+conference, Birkbeck, in 2008.
+PEER ENGLISH
+17
+The final panel frame from Watchmen, the graphic novel of faded
+superheroes by writer Alan Moore and artist Dave Gibbons (figure 1),
+shows a pile of papers, documents and envelopes with a journal
+prominently displayed. This suggests an appropriate visual index of an
+archive: scattered documents that demand to be sorted, arranged, and
+catalogued. Moore is perhaps the best known writer in the comics
+medium and, as Sean Carney has argued, questions of history and
+historiography permeate his work: ‗If there is a single thematic concern
+that ties Moore‘s work together into a coherent oeuvre it is the recurring
+question of history‘ (para. 2).2 The archive as narrative is therefore an
+important paradigm in considering Moore‘s work in general and, as I
+hope to show, Watchmen in particular, a narrative suffused with history
+thematically, formally and materially. Jared Gardner in a recent essay
+proposed that archives and archival narratives saturate contemporary
+comics. Gardner‘s approach draws from Walter Benjamin in examining
+how fragments of the past intrude on to the present, and he proposes that
+comics are uniquely capable of composing archival narratives not just by
+making use of patterns of verbal–visual representations, but by
+inscribing the subculture of comics fans and collectors within their
+narrative structures:
+[T]he comic form is ideally suited to carrying on the
+vital work Benjamin called for generations earlier:
+making the present aware of its own ‗archive‘, the past
+that it is always in the process of becoming.
+(Gardner.803)
+Gardner focuses on alternative comics, but points to Moore‘s From Hell
+as example of an archival text, ‗an extended and profoundly complicated
+archival search for the ―truth‖ about Jack the Ripper and his victims‘
+framed by an extensive appendix (804, n.1). Gardner is not alone in
+reading comics through the lens of Benjamin‘s writings on history,
+historiography, and cultural production. Alvaro Alemán has examined
+the link between urban experience and perceptual configuration in
+comics, while others have been drawn to analyses of memory (see
+Beeck, Prager). I propose to extend this approach to read Watchmen as
+an archive of comics history, a historiographic novel, one that refutes
+postmodern ahistoricism. An exhaustive reading of such a densely
+referential text would prove difficult, if not impossible, considering the
+limited space. As such, this reading will resemble the fragmentary
+quality of the archive with a necessarily selective focus. I will start by
+looking at the content and form of the narrative generally, before moving 
+PEER ENGLISH
+18
+on to read selected extracts and considering their relevance to the
+archival structure of Watchmen.
+Plot and Masterplot
+Watchmen is sometimes referred to as a ‗deconstruction‘ of superhero
+comics, signalling the text‘s simultaneous closeness to and distance from
+the mass cultural processes that produced it (Reynolds 30, Thomson
+111). It is a superhero narrative that appears to critically parody and
+undermine prior superhero narratives, in particular the implicit
+ideological contradictions of the genre, commonly allegorised as a
+dialectic of the authoritarian and the utopian, a duality figured in the
+doubled identities of superheroes as crime–fighting vigilantes and
+everyday observers. As Reynolds has noted, superhero comics are ‗a
+popular art–form traditionally known for its apparently hegemonic and
+sometimes overtly authoritarian texts‘(7). Watchmen is a historiographic
+narrative, archiving its own historical imaginary in an attempt to master
+and re–write the past that has produced it.
+A brief explication is necessary and appropriate. The narrative
+begins with the murder of Edward Blake, an aging masked crime–fighter
+known as The Comedian, evidently thrown from the window of his New
+York high rise apartment. The setting is a recognisably different
+contemporary world, one in which crime–fighting superheroes exist and
+their presence has altered history resulting in a fourth term for Nixon
+following America‘s victory in Vietnam. Blake‘s murder is investigated
+by Rorschach, real name Walter Kovacs, who concludes that the murder
+is part of a vendetta against ‗masks‘. Rorschach brings his suspicions to
+his old acquaintances: Dan Dreiberg (Nite Owl), a wealthy ornithologist;
+Adrian Veidt (Ozymandias), a billionaire industrialist; Laurie Juspeczyk
+(Silk Spectre), who is the girlfriend of Jon Osterman (Dr. Manhattan) the
+only ‗real‘ superhero, a nuclear physicist who gained extrahuman
+capabilities following an accident at an atomic plant. The Comedian had
+belonged to an older generation of vigilantes dating back to World War
+II, the Minutemen, a group who included Laurie‘s mother — the original
+Silk Spectre, who forced her unwilling daughter to take on her role —
+and Hollis Mason, who preceded Dreiberg as Nite Owl. Public pressure
+led to legislation proscribing the activities of vigilantes, forcing them to
+retire (Dreiberg), go underground (Rorschach), or work directly for the
+government (Blake and Manhattan — in the latter‘s case as a literal
+nuclear deterrent). No–one takes Rorschach seriously, considering him
+paranoid, but events occur that give credence to his claims. Dr. 
+PEER ENGLISH
+19
+Manhattan is accused of unwittingly causing close colleagues to develop
+cancer and is forced into exile, leading to an escalation of the Cold War;
+Veidt is targeted by an assassination attempt; Rorschach is framed for
+the murder of an old antagonist and imprisoned. Dan and Laurie break
+him out prison, and discover that the apparent plot against ‗masks‘ itself
+obscures a masterplot involving the staging of a large–scale atrocity that
+will result in the mass murder of innocents, in order to frighten the
+nations of the world into unity and peace. Veidt is unmasked as the
+grand conspirator, the attempt on his life an act of misdirection to
+conceal his masterplot to save the world from what he sees as inevitable
+nuclear conflict: ‗I saved earth from hell. Next I‘ll help her towards
+utopia‘ (XII:20). The other characters agree to keep silent for the sake of
+the new world order, except for Rorschach who is killed by Manhattan to
+prevent the revelation of the conspiracy. Unbeknown to the other
+characters, Rorschach has mailed his journal, in which he has detailed
+Veidt‘s subterfuge, to a libertarian newspaper. The narrative ends with
+his journal about to be picked up and opened.
+Such a compressed explication does not do justice to the sheer
+density of the narrative, which is constructed and complicated by a
+variety of means. Watchmen is composed of numerous textual elements
+that foreground the archive, most notably the use of prose insertions that
+complete each chapter. These supplements from autobiographies, diaries,
+interviews, news reports, psychiatric reviews, marketing statements and
+scrapbooks are themselves metonyms for the archive. Watchmen resists
+the depthless postmodern play of signifiers by incorporating historical
+referents into the archival narrative: Richard Nixon, the Vietnam War,
+and the Soviet invasion of Afghanistan all feature in the text. The
+shadow of the Cold War hangs over the text, that period of permanent
+confrontation between the USA and the USSR when the imminent threat
+of nuclear conflagration was a real possibility. As historian Eric
+Hobsawm has commented, ‗it did not happen, but for some forty years it
+looked like a daily possibility‘(226).
+In Watchmen the publication of the first Superman comic in 1938
+inspires masked vigilantes to take to the streets to fight crime thereby
+revealing the ideology of superheroes to be, in Althusserian terms,
+imaginary solutions to real contradictions. The representation of history
+is achieved via the reflexive referencing of prior histories of
+representation in the spirit of what Benjamin called ‗materialist
+historiography‘, of seizing on the fragment of the past as ‗an image
+which flashes up at the instant when it can be recognised‘ (‗Theses‘ 247–
+48). These constellated historical fragments constitute the archive as an
+epistemological model, one that resembles Fredric Jameson‘s hypothesis 
+PEER ENGLISH
+20
+of the cognitive map, ‗the mental map of city space…extrapolated to that
+mental map of the social and global totality‘ (‗Cognitive
+Mapping‘.282).3 Comics‘ spatialization of time make them an ideal form
+to attempt to realise this mapping. Historically seen as disposable
+objects, Alemán argues that a side–effect of the image–text dialectic in
+mass–produced comics is a ‗mapping of social reality‘ (para. 6). The
+archival comic provides us with a potential model of cognitive mapping
+and its degraded corollary, the conspiracy, cartographically realised
+across the grid of the comics page as a kind of spatial abstraction of an
+unrealisable/totality.
+Fragment and Flux
+Reading comics is an inferential process of construing a narrative flux
+out of the fragmented panels that constitute the comics page. Scott
+McCloud defines this phenomenological process of completion as
+‗closure‘: ‗observing the parts but perceiving the whole‘ (63). The reader
+plays a collaborative part in bridging the gap between panels by
+interpreting the separate moments as continuous and unified. By way of
+illustration let us turn to the famous opening page of Watchmen
+(figure.2). The page has a kind of cinematic grace, starting with a close–
+up and pulling further out panel–by–panel to widen the perspective. This
+gradual momentum utilises what McCloud calls a moment–to–moment
+transition (71), moving from the close–up of blood in the gutter,
+gradually tracking back to reveal the street from an increasingly panoptic
+perspective, the vertiginous scale emphasised by the widescreen panel at
+the bottom of the page.4 Closure also occurs on a semantic level in the
+association of word and image; the verbal narration paralleling the visual
+sequence, operating as a dialectical montage of image and text.
+Rorschach‘s journal is a recursive intradiegetic text, its yellowed, torn
+pages indicating a fragmentary textual materiality that is part of the
+larger totality of the narrative.
+Gardner contends that the verbal/visual dialectic of comics make
+them the ideal form to represent the interpenetration of past and present,
+the culmination of Benjamin‘s call, in his essay ‗The Author as
+Producer‘, for writers to develop a new language to record this process.
+Benjamin called on writers to pick up the camera to break the barrier
+between image and text: ‗without knowing its name, the writing
+Benjamin was calling for in the 1930s is clearly the comic‘
+(Gardnerl789).
+PEER ENGLISH
+21
+Figure 2: Rorschach‘s journal, I: 11. © DC Comics.
+Returning to the opening page, the verbal and visual elements
+appear to be running on different tracks, thus frustrating closure. Image
+and text occupy the same figurative space , but it is unclear as to whether
+they are occurring in the same diegetic time. Closure in McCloud‘s sense
+of the term is actually deferred: for instance it is only later (and on re–
+reading) that the reader learns that the man carrying the placard
+announcing ‗THE END IS NIGH‘ (itself a proleptic sign) is
+actually.Rorschach.
+This temporal and spatial dis–juxtaposition is developed further 
+PEER ENGLISH
+22
+over the next few pages, in which two police detectives‘ piece together
+what happened to Blake as they wander round his apartment. The past
+and present collide as we read the detectives‘ verbal reconstruction of
+Blake‘s murder spliced over a visual enactment (I: 2–3: ‗Somebody
+really had it in for this guy‘). Alemán notes that comics process what
+Benjamin called the ‗shock of the urban experience‘, operating as
+‗textual instructions for the recomposition of public space‘ (para. 4).5
+This reconstitution also has a temporal element. "http://this_is_a_url" The best example of
+chronotopic recombination is Manhattan‘s unique temporal perception
+whereby he experiences time as a constant, able to step in and out of the
+past, present or future. Holding a photograph of himself, he also
+experiences the moment of its taking years before (IV:1), perfectly
+encapsulating the spatio–temporal capability of comics to configure
+simultaneity and totality.6
+Blake‘s murder initiates the narrative of Watchmen, his body
+providing an absent presence, a gap that requires closure. Rorschach
+commits himself to solving the murder, his clothing signifying his status;
+the fedora and raincoat of the hardboiled private detective, supplemented
+by his mask, an ever–changing emblem that both disguises him and
+gives him his name (see figure 3). His journal is a parody of the gruff
+monologue of the private eye, and reveals him to be a morally
+uncompromising, disturbed individual: in other words, just the kind of
+person who would disguise himself to fight criminals. There is a dual
+motion to crime narratives, as the detective moves backward to uncover
+past events even as they move forward to a conclusion. Typically this
+strategy of double–movement is ideological as disruption is followed by
+recovery leading to reinstatement of order (Scaggs 46–7). The detective
+resembles the archivist recovering fragments of the past to constitute a
+coherent narrative, to bring closure on the level of content. Rorschach
+pieces together the plot that leads to and beyond Blake‘s murder, and his
+investigation opens up the generic archive inscribed within the narrative.
+The superhero genre is a hybrid of crime fiction with its emphasis on
+recovery, and science fiction with its accent on projection. Superheroes
+were thrust onto the world in the 1930s, effectively by a remediation of
+two main sources: comic strips from newspaper supplements that had
+been popular since the end of the nineteenth century, and the spectacular
+if formulaic narratives of pulp magazines (see Sabin 144–49).
+7 As
+Franco Moretti argues, genres are ‗temporary structures…arrangements
+that last in time… Janus–like creatures, with one face turned toward
+history and the other to form‘ (14). In other words, genres are not fixed
+or unchanging categories, but historically contingent formations that
+process and are processed by history. Watchmen presents an alternative 
+PEER ENGLISH
+23
+history, retroactively enacting projection, constructing an archive of the
+future. Alternative histories, a sub–genre of science fiction, narrativise
+moments of divergence from recorded history and the consequences of
+that divergence (Duncan 209).
+Manhattan‘s existence is crucial to the diegetic world as he
+represents a point of divergence. The only ‗real‘ superhuman, he is
+capable of manipulating matter at an atomic level and his appearance
+renders the superpowerless masked vigilantes superfluous. He is an
+embodiment of the science fiction trope Darko Suvin identifies as the
+novum, the new thing, a fictional component that dramatically alters its
+environment (63). "://this_is_not_a_url" Manhattan‘s presence ensures that America wins the
+Vietnam conflict, that the US has the edge over the Soviet Union in the
+Cold War and that Nixon is able to change the Constitution and stay on
+for a fourth term. As a symbolic form, alternative histories articulate
+Benjamin‘s vision of seizing ‗hold of a memory as it flashes up at a
+moment of danger‘ (‗Theses‘ 243). In doing so, such narratives
+problematise teleological readings of history that would confer
+inevitability and linearity, embodying Benjamin‘s concept of materialist
+historiography as they ‗wrest tradition away from a conformism that is
+about to overpower it‘ (‗Theses‘ 243).
+Figure 3: ‗Who watches the watchmen?‘ I: 9. © DC Comics.
+Under the Hood
+Rorschach is eventually shuffled into the text, subjected to textual
+reframing in the form of a psychiatric report. This is one of many prose
+inserts that fill out the narrative and act as material supplements, what
+Reynolds refers to as the ‗multi–textual‘ apparatus of the story (109).
+These effectively act to provide the text with its own context, 
+PEER ENGLISH
+24
+contributing to the archive of this alternative history, performing a
+double role in acting as commentary on both the fictionalised alternative
+history as well as the actual historical background of the material text.
+They function as annotations to comics as history, materially embodying
+the archival qualities of the narrative. One prominent supplement is the
+autobiography of Hollis Mason, who recounts how the publication of the
+first Superman comic in 1938 sparked a craze for masked vigilantes
+around America (see figure 4). Pulp fiction and superhero comics
+provide simplistic imaginary models for dealing with complex social
+conditions. Mason initially becomes a policeman to confront as he puts
+it, ‗the pimps, the prostitutes, the protection artists‘. Inspired by reports
+Figure 4: Hollis Mason‘s autobiography, Under the Hood, I: n.pag. ©
+DC Comics.
+PEER ENGLISH
+25
+of people emulating those comics‘ heroes, he develops the masked
+persona of Nite Owl. The period from the 1930s to the 1950s is
+commonly referred to as the Golden Age of comics (Klock 2), and in the
+context of Mason‘s memoir this seems ironic, as the world of primary
+coloured morality is also the world of pimps, prostitutes and protection
+artists. Mason says he preferred the superhero comics to the pulps
+because comics dispensed with ‗darkness and ambiguity‘. Watchmen
+reinstates that darkness and ambiguity by materially incorporating these
+pulp elements into the narrative structure, returning superheroes ‗to their
+pulp roots‘ (Klock 76).
+In the world of Watchmen, masked vigilantes have their own fans,
+and Mason passes on his secret identity to a younger admirer, Dan
+Dreiberg. Both men are plainly fanboys, their fetish for collection
+transferred from comics to vintage cars and ornithology. The transition
+of Nite Owl from Mason to Dreiberg works as a symbolic transition
+from Golden Age to Silver Age in comics history, the latter period
+associated with Marvel characters in the sixties such as Spiderman who
+tended to adopt an ironic tone in the midst of existential crises: ‗this
+second wave of superheroes was as different from the first as the first
+wave was from the pulps‘ (Klock 2). This transfer breaks with the typical
+comics practice of static historicity, or of what Umberto Eco writing on
+Superman called an ‗immobile present‘, the cyclic temporal continuity of
+superhero stories in which characters never seem to age (116).
+Watchmen‘s continuity fractures the static time of superheroes allowing
+historical time to enter the narrative. Paradoxically, by being published
+as a contained rather than continuous serial the text is opened out rather
+than constricted. Superhero narratives are predicated on serialisation,
+which often results in what Jason Dittmer defines as ‗the tyranny of
+the serial‘, the narrative stasis that ensues as a comic remains bound by
+continuity ensuring a fundamental conservatism across most superhero
+narratives:
+The tyranny of the serial becomes useful as an
+explanatory tool when one considers why the Superman
+of the comic books did not become Nietzsche‘s Super–
+man. In other words, why would a super–powered
+human, emotionally tied to humanity yet with liberating
+potential concealed within, not attempt to revolutionize
+society? In the Nietzschean perspective, the
+Übermenschen are supposed to return to humanity and
+bring their knowledge and skills to bear on humanity‘s
+condition. Instead, in the comic world superheroes are 
+PEER ENGLISH
+26
+more like super–powered policemen than anything
+else.— their support for the status quo is what defines
+them, and any attempt to fundamentally alter the social
+system is what marks the character as a villain. It is in
+the absence of the super–man that the tyranny of the
+serial can be perceived. (Dittmer 253)
+Dittmer proposes that Moore and Gibbon‘s Watchmen resists this, first
+by characterising Vedit as ‗a perfect representation of the Nietzschean
+Übermensch‘ (254), then by–passing the tyranny of the serial that
+‗privileges plots that re–constitute the status quo‘ (256). Initially, Moore
+and Gibbons were to have worked on a revival of characters of Charlton
+comics from the sixties for DC, who bought the copyright (Khoury et al
+9–10). When DC decided on other plans for the characters, Moore
+created new ones inspired by Charlton‘s superheroes. But the Charlton
+heroes were anyway adaptations of more established characters, Blue
+Beetle for instance is a fairly obvious version of Batman (transmuted in
+Watchmen into Nite Owl). The characters in Watchmen are therefore
+copies of copies, but it is this reified archetypal status that allows for a
+critical revision otherwise restricted by the demands of continuity.
+Watchmen was serialised without pages given over to letters,
+adverts or editorials, as is customary, further allowing Moore and
+Gibbons to exploit textual materiality by the inclusion of the narrative
+supplements used to comment on the diegesis. This is made evident in
+another of the supplements, one of Veidt‘s company memos in which he
+discusses the marketing of action figures of himself and his former
+colleagues. Veidt suggests marketing terrorist figures for a children‘s
+cartoon, a blunt comment on crass merchandising that illustrates the
+contradictory anxiety felt about mass culture by a product of mass
+culture itself (X: n.pag.). The ideological ramifications are further
+illustrated in another insert which advertises ‗the Veidt method‘, which
+resembles the Charles Atlas self–improvement adverts prominently
+displayed in comics of the Golden and Silver Ages: ‗If you‘re reading
+this, it‘s because you sent away for my course, and if you did THAT, it‘s
+because you think you need a change in your life.… The Vedit method is
+designed to produce bright and capable young men and women who will
+be fit to inherit the challenging, promising, and often difficult world that
+awaits our future‘ (X: n. pag.). Given the consequences of Veidt‘s plan,
+the sinister irony is unmissable: consumerism is deeply implicated with
+the authoritarian.
+PEER ENGLISH
+27
+Seduction of the Innocent
+This contradictory anxiety felt in the text about the manipulative
+ideological functions of comics as products of mass culture is
+complicated by the inclusion of a substantive allusion to a notorious
+episode in comics history that emerges re–written within the narrative.
+Watchmen‘s archive acts as host to what Klock refers to as ‗broken‘
+traditions (68). These counter–traditions signify moments of possible
+divergence, the past flashing up as an instant. One such tradition is the
+horror comic, directly referenced in the Watchmen. Tales of the Black
+Freighter is the title of a comic that a minor character reads throughout,
+scenes from which are spliced into the main narrative. Once again,
+verbal and visual elements are dis–juxtaposed, as images and text from
+diegetic and intradiegetic text overlap and become misaligned (see figure
+5). The content features a man shipwrecked by pirates who races to save
+his family from destruction, but who in his obsession becomes the very
+instrument for that destruction. Word and image are disassembled and
+recast, illuminating a wider network of connections, associations and
+allusions. The supplement for chapter V documents a counter–history of
+comics in a fictional cultural history, Treasure Island Treasury of
+Comics (V: n.pag.). This rewrites actual cultural history as horror comics
+inspired a moral panic in the 1950s, exemplified by psychiatrist Fredric
+Wertham‘s book Seduction of the Innocent, which led directly to
+industry self–censorship (Sabin 157–62, Nyberg). This comic–within–a–
+comic closely resembles the E.C. comics that inspired much of the
+backlash. In a world with superheroes there is no need for superhero
+comics, and much as horror comics shadowed the superhero genre, the
+story in Tales of the Black Freighter shadows Veidt‘s masterplot.
+Figure 5: Reading Tales of the Black Freighter III: 2. © DC Comics.
+PEER ENGLISH
+28
+Historically, pornographic comics, commonly called ‗Tijuana
+Bibles‘, represent another ‗broken‘ tradition. These illegal, under–the–
+counter comics used images of copyrighted comic characters or
+celebrities, and were popular from the 1930s to the 1950s. They were a
+counter–tradition that ran alongside the Golden Age superheroes and by
+recontextualising copyrighted characters they anticipated pop art and the
+underground comix of the 60s, as well Watchmen‘s own narrative tactics
+(Sabin 142–43). Sally Juspeczyk keeps a copy of one that uses her image
+as a souvenir, and the half–concealed image is woven collage–like into
+the main text. Klock writes: ‗Watchmen invokes its own history as a
+superhero narrative, but also makes reference to a host of apocryphal
+comic literature‘ (68–69).
+Conclusion: Fearful Symmetry
+Watchmen is a text about other texts, composed of other texts that
+constitute the plot, a comic about other comics and the cultural history
+that they carry. This archival narrative foregrounds its textual
+materiality, and as the last panel shows gestures toward its own
+processes of construction in the constellations of fragments that
+constitute the narrative flux. Watchmen embodies and emplots an
+attempt to negotiate some kind of cognitive mapping in its intricate form,
+even as it lapses into the debased content of the conspiracy. Carney
+argues that Moore‘s writing critiques postmodernism from within:
+‗Moore is emblematic of the artistic strategies which Jameson envisions
+for postmodern art, which can respond to the cultural logic of late
+capitalism not by rejecting its symptoms, but by embracing them and
+using them against that cultural logic‘ (para. 21). At times Watchmen‘s
+critique of the hegemony of superhero comics resembles Wertham‘s
+diatribe against the medium and its deleterious effects. Yet the text also
+clearly embraces the sensual and bracing experience of the comics form.
+Such a dialectical understanding of Moore‘s writing undoubtedly
+enhances our reading of Watchmen. Watchmen re–assembles the
+superhero story as a site of bibliophilic loss for the supposed innocent
+glories of the Golden and Silver Ages, coupled with an
+acknowledgement that as a textual object it has itself profoundly altered
+the comics archive. The critical transformation effected by Watchmen
+was ultimately part of a re–evaluation of cultural values that saw comics
+renamed and remarketed as graphic novels in the 1980s (Sabin 87). The
+serial collection was itself transformed into a material unified whole
+PEER ENGLISH
+29
+thereby transforming archive into archival object. But in the final
+analysis, closure, and the complete unification of textual integrity and
+teleological framing the term implies, is in some sense resisted. The final
+chapter dispenses with a prose supplement, ending instead with the shot
+of Rorschach‘s journal waiting to be picked up in the news office, and to
+be opened leading the reader straight back to the opening page. This
+circularity is an attempt to circumvent teleological closure by
+encouraging active re–reading. As Thomson suggests: ‗Watchmen was
+written to be reread; indeed it can only be read by being reread‘ (103). In
+this spirit of anti–teleological circularity, it is worth returning to the
+epigraph by Borges that prefaced this reading, which might have been
+written with Moore and Watchmen in mind.
+NOTES
+1 All references show chapter then page number as reprinted in the
+graphic novel edition. Supplemental inserts contain no consecutive
+pagination.
+2 As is now convention, I follow Scott McCloud (4) in my use of the
+term ‗comics‘ as singular noun to describe the medium.
+3
+Jameson marks a distinction between form and content, finding
+degraded instances of the latter in postmodernism, whilst acknowledging
+that ‗I am, myself, absolutely incapable of guessing or imagining its
+form‘ (286). Comics arguably represent a potential form. See also
+Jameson, Postmodernism 52–54.
+4 See McCloud 70–74 for a Barthesian model of how visual narrative
+transitions work. Coincidentally, McCloud‘s chapter on closure is titled
+‗Blood in the Gutter‘ (60–93), the gutter here referring to the gap
+between the panels.
+5 Alemán is referring to Benjamin‘s essay ‗On some motifs in
+Baudelaire‘: ‗[Benjamin] argued that the new technologies of
+representation (particularly film) instilled in the masses new modes of
+filtering their sensations, of preparing their cognitive faculties for the
+repeated shocks of a historical period that represented a turning point in
+history‘ (Alemán para. 4). Benjamin was writing about the growth of
+fascism in the thirties, a philosophy that found its contemporary
+figurative parallel in the superhero comics being produced in the USA.
+6 This episode invokes, coincidentally, Benjamin‘s ‗Little History of
+Photography‘: ‗No matter how artful the photographer, no matter how
+carefully posed the subject, the beholder feels an irresistible urge to
+search such a picture for the tiny spark of contingency, of the here and 
+PEER ENGLISH
+30
+now, with which reality has (so to speak) seared the subject, to find the
+inconspicuous spot wherein the immediacy of that long–forgotten
+moment the future nests so eloquently that we, looking back, may
+rediscover it‘ (510). Manhattan is both subject and beholder.
+7 Comic books (as opposed to strips) were first published in the USA in
+this period, collecting previously published strips in pamphlet form.
+From here, it was a short step to first adapting prose material (such as
+Edgar Rice Burrough‘s Tarzan of the Apes) to original material that
+copied the pulp trend for masked crimefighters like The Shadow.
+WORKS CITED
+Alemán, Alvaro. ‗Paraliterary Immersion and the Puzzleform: An Essay
+in Social Restitution‘. ImageText 2.1 (2006): n. pag. 6 Feb. 2008.
+<http://www.english.ufl.edu/imagetext/archives/v2_1/aleman/>
+Beeck, Nathalie op de. ‗Found Objects (Jem Cohen, Ben Katchor,
+Walter Benjamin)‘. MFS Modern Fiction Studies 52.4 (2006):
+807–31.
+Benjamin, Walter. Illuminations. Ed. Hannah Arendt. Trans. Harry
+Zohn. New York: Schocken, 1969.
+———. ‗Theses on the Philosophy of History‘. Illuminations. 245–55.
+———. ‗Little History of Photography‘. Selected Writings: 1927–1934.
+Vol. 3 Ed. Michael W. Jennings, Howard Eiland and Gary Smith.
+Trans. Rodney Livingstone et al. Cambridge, MA: Harvard
+University Press, 1999. 508–27.
+Borges, Jean Luis. ‗Kafka and His Precursors‘. Labyrinths: Selected
+Stories and Other Writings. Ed. Donald A Yates and James E.
+Irby. Trans. James E. Irby. London: Penguin, 1970. 234–36.
+Broderick, Damien. Reading by Starlight: Postmodern Science Fiction.
+London: Routledge, 1995.
+Carney, Sean. ‗The Tides of History: Alan Moore‘s Historiographic
+Vision‘. ImageText 2.2 (2006): n. pag. 28 Dec. 2007.
+<http://www.ufl.edu/imagetext/archives/v2_2/index.shtnl>
+Dittmer, Jason. ‗The Tyranny of the Serial: Popular Geopolitics, the
+Nation, and the Comic Book Discourse‘. Antipode 39 (2007):
+247–68.
+Duncan, Andy. ‗Alternate History‘. The Cambridge Companion to
+Science Fiction. Ed. Edward James and Farah Mendlesohn.
+Cambridge: Cambridge University Press, 2003: 209–19. 
+PEER ENGLISH
+31
+Eco, Umberto. ‗The Myth of Superman‘. The Role of the Reader:
+Explorations in the Semiotics of Texts. Trans. William Weaver.
+London: Hutchinson, 1979: 107–24.
+Gardner, Jared. ‗Archives, Collectors, and the New Media Work of
+Comics‘. MFS Modern Fiction Studies 52.4 (2006): 787–806.
+Hobsbawm, Eric. Age of Extremes: The Short Twentieth Century 1914–
+1991. London: Penguin, 1994.
+Jameson, Fredric. ‗Cognitive Mapping‘. The Jameson Reader. Ed.
+Michael Hardt and Kathi Weeks. Malden, MA: Blackwell, 2000.
+277–87.
+———. Postmodernism or, The Cultural Logic of Late Capitalism
+(London: Verso, 1991.
+Jennings, Michael W. Dialectical Images: Walter Benjamin’s Theory of
+Literary Criticism. Ithaca: Cornell University Press, 1987.
+Khoury George et al. The Extraordinary Works of Alan Moore. Raleigh,
+North Carolina: TwoMorrows Publishing 2003.
+McCloud, Scott. Understanding Comics: The Invisible Art. New York:
+HarperCollins, 1993.
+Moore, Alan and Dave Gibbons. Watchmen. New York: DC Comics,
+1987.
+Moretti, Franco. Graphs, Maps, Trees: Abstract Models for Literary
+History. London: Verso, 2005.
+Nyberg, Amy Kiste. Seal of Approval: The History of the Comics Code.
+Jackson: University of Mississippi Press, 1998.
+Prager, Brad. ‗Modernism in the Contemporary Graphic Novel: Chris
+Ware and the Age of Mechanical Reproduction‘. International
+Journal of Comic Art 5.1 (2003): 195–211.
+Reynolds, Richard. Superheroes: A Modern Mythology. Jackson:
+University of Mississippi Press, 1992.
+Sabin, Roger. Adult Comics: An Introduction. London and New York:
+Routledge, 1993.
+Scaggs, John. Crime Fiction. New York: Routledge, 2005.
+Thomson, Iain. ‗Deconstructing the Hero‘. Comics as Philosophy.
+Jackson: University Press of Mississippi, 2005: 100–29.
